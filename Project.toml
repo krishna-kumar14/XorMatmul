@@ -1,0 +1,4 @@
+name = "XorMatmul"
+uuid = "28007b86-611d-4c34-829a-8137225623fa"
+authors = ["Krishna Kumar <86494374+krishna-kumar14@users.noreply.github.com>"]
+version = "0.1.0"
